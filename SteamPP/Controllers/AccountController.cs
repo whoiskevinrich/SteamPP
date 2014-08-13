@@ -10,7 +10,7 @@ using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.Owin.Security;
 using SteamPP.Models;
 
-namespace SteamPP.Controllers
+namespace SteamPP.Web.Controllers
 {
     [Authorize]
     public class AccountController : Controller

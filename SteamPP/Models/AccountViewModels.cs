@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace SteamPP.Models
+namespace SteamPP.Web.Models
 {
     public class ExternalLoginConfirmationViewModel
     {
