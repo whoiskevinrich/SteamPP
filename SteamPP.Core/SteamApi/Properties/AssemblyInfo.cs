@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SteamPP.Service")]
+[assembly: AssemblyTitle("SteamApi")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SteamPP.Service")]
+[assembly: AssemblyProduct("SteamApi")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f1169fdb-1013-4bf2-a080-976016efe85d")]
+[assembly: Guid("743131f8-36ad-48bb-b73e-15a1a5ad1e85")]
 
 // Version information for an assembly consists of the following four values:
 //
